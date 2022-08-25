@@ -1,5 +1,5 @@
 Link to Zip file
-![Link to Zip File](https://drive.google.com/drive/folders/1s7yB-y2SKWzXx45k6fGrjXR0UW6Aykl8)
+[Google Doc Page](https://drive.google.com/drive/folders/1s7yB-y2SKWzXx45k6fGrjXR0UW6Aykl8)
 
 # _Wrench Knight_
 
