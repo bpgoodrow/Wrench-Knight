@@ -9,16 +9,12 @@ Link to Zip file
 * Git
 * C#
 * .NET 6.0
-* ASP.NET
-* RESTful Routing
-* Entity Framework Core
-* MVC
 * Unity
 * Piskel
 * Beatbox
 
 ## Description
-_This is a simple C# 2d tactic game build with Unity. The game consist of one character and one enemy where two players are in a arena to fight. You can possibility win or lose. This game has a main start screen with a end screen._
+_This is a simple C# 2d game built with Unity. The game consists of one character and one main enemy protected by smaller invulnerable enemies._
 
 ## Setup/Installation Requirements
 Downloading Unity
@@ -50,7 +46,7 @@ Running Unity
 ```
 Open Unity.
 Click Open.
-Choose the Wrench Knight folder you had unzip.
+Choose the Wrench Knight folder you have unzip.
 ```
 ![Image of Wrench Knight file](./Wrench%20readme%20image/Screen%20Shot%202022-08-25%20at%2011.01.07%20AM.png)
 ```
@@ -79,7 +75,8 @@ Open file and play.
 ```
 
 ## Known Bugs
-The Knight Wrench would not died at times. The enemy will not be able to get hit at times.
+* The Knight Wrench would not died at times.
+*The enemy will not be able to get hit at times.
 
 ## License
 _If you run into any issues or have questions, ideas or concerns please contact the authors or make a contribution to the code._
